@@ -2,7 +2,7 @@
 
 
 
-Some detail on the previous work:
+Some detail on the previous work by Yuchen:
 
 1. Sympy Package for Algebra ( https://docs.sympy.org/latest/index.html ; https://mattpap.github.io/masters-thesis/html/index.html ).
 2. 'Compu_1.ipynb' and 'Compu_2.ipynb': some facts from Grobner Basis; application to commutative algebra theory and integer programming.
