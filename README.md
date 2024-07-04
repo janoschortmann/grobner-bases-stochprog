@@ -1,6 +1,8 @@
-The reports and codes for the project on algebraic geometry methods (Grobner and Graver Basis) to introduce algorithms and reduce the computational cost of Integer Programming and Stochastic Integer Programming under the supervision of Prof. Janosch Ortmann and Prof. Walter Rei at UQAM.
 
-Some detail:
+
+
+
+Some detail on the previous work:
 
 1. Sympy Package for Algebra ( https://docs.sympy.org/latest/index.html ; https://mattpap.github.io/masters-thesis/html/index.html ).
 2. 'Compu_1.ipynb' and 'Compu_2.ipynb': some facts from Grobner Basis; application to commutative algebra theory and integer programming.
